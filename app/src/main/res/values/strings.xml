@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeDex ver 2</string>
+    <string name="textview">TextView</string>
+    <string name="siguiente">siguiente</string>
+    <string name="atras">atras</string>
+    <string name="login_tv_loading">loading</string>
+    <string name="hgt">description</string>
+</resources>
