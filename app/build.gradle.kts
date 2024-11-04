@@ -51,4 +51,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.glide)
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
 }
